@@ -1,8 +1,8 @@
-import UserModel from "./models/User";
-import ViewedModel from "./models/Viewed";
+import UserModel from "./models/User.js";
+import ViewedModel from "./models/Viewed.js";
 import MediaModel from "./models/Media";
 import FacetModel from "./models/Facet";
-import Media_metadataModel from "./models/Media_metadata";
+import Media_metadataModel from "./models/Media_metadata.js";
 import FavoriteModel from "./models/Favorite.js";
 
 // //MediaModel - ViewedModel
