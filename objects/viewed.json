@@ -1,0 +1,1178 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/0d810730-26ff-5de8-85a4-9d255f0b742c",
+      "url": "https://www.nytimes.com/2024/02/13/us/umich-palestinian-zionist.html",
+      "id": 100000009282618,
+      "asset_id": 100000009282618,
+      "source": "New York Times",
+      "published_date": "2024-02-13",
+      "updated": "2024-02-14 22:32:43",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Colleges and Universities;Israel-Gaza War (2023- );Demonstrations, Protests and Riots;Palestinians;Muslim Americans;Jews and Judaism;Zionism;Anti-Semitism;University of Michigan;Students for Justice in Palestine;Hillel, The Foundation for Jewish Campus Life;Ann Arbor (Mich);Israel;Gaza Strip",
+      "column": null,
+      "byline": "By Kurt Streeter",
+      "type": "Article",
+      "title": "Two Students, Two Views, One Campus Conflict in the Midwest",
+      "abstract": "At the University of Michigan, a Palestinian activist and a self-described Zionist counterprotester have little in common, except the way they were shaped by life on campus.",
+      "des_facet": [
+        "Colleges and Universities",
+        "Israel-Gaza War (2023- )",
+        "Demonstrations, Protests and Riots",
+        "Palestinians",
+        "Muslim Americans",
+        "Jews and Judaism",
+        "Zionism",
+        "Anti-Semitism"
+      ],
+      "org_facet": [
+        "University of Michigan",
+        "Students for Justice in Palestine",
+        "Hillel, The Foundation for Jewish Campus Life"
+      ],
+      "per_facet": [],
+      "geo_facet": ["Ann Arbor (Mich)", "Israel", "Gaza Strip"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salma Hamamy, left, spoke with Josh Brown last week after the national walkout and march for Gaza at the University of Michigan.",
+          "copyright": "Nic Antaya for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/11/multimedia/11nat-mich-campus1-qzvp/11nat-mich-campus1-qzvp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/11/multimedia/11nat-mich-campus1-qzvp/11nat-mich-campus1-qzvp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/11/multimedia/11nat-mich-campus1-qzvp/11nat-mich-campus1-qzvp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/70a9ea18-794a-5934-b359-46d449dcb56f",
+      "url": "https://www.nytimes.com/2024/02/14/opinion/marriage-advice-friends.html",
+      "id": 100000009312046,
+      "asset_id": 100000009312046,
+      "source": "New York Times",
+      "published_date": "2024-02-14",
+      "updated": "2024-02-14 15:19:40",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Dating and Relationships;Marriages;Friendship;Love (Emotion)",
+      "column": null,
+      "byline": "By Rhaina Cohen",
+      "type": "Article",
+      "title": "The Key to a Happy, Stable Marriage",
+      "abstract": "Couples shouldn’t be cocooned but anchored in a circle of friends.",
+      "des_facet": [
+        "Dating and Relationships",
+        "Marriages",
+        "Friendship",
+        "Love (Emotion)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Carolyn Drake/Magnum Photos",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/opinion/14cohen/14cohen-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/opinion/14cohen/14cohen-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/opinion/14cohen/14cohen-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/bc496e5f-61a0-5866-989e-83f50226b9c4",
+      "url": "https://www.nytimes.com/2024/02/14/us/politics/house-republicans-congress-suozzi.html",
+      "id": 100000009313139,
+      "asset_id": 100000009313139,
+      "source": "New York Times",
+      "published_date": "2024-02-14",
+      "updated": "2024-02-14 22:25:41",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Law and Legislation;Impeachment;Johnson, Mike (1972- );Mayorkas, Alejandro;Santos, George (1988- );Suozzi, Thomas R;House of Representatives;Republican Party;Long Island (NY)",
+      "column": null,
+      "byline": "By Annie Karni",
+      "type": "Article",
+      "title": "House Republican Majority Shrinks Again as Congress Faces Critical Issues",
+      "abstract": "The victory of Tom Suozzi, a Democrat, in a special election in New York will chip away at the already thin Republican hold over the House.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Law and Legislation",
+        "Impeachment"
+      ],
+      "org_facet": ["House of Representatives", "Republican Party"],
+      "per_facet": [
+        "Johnson, Mike (1972- )",
+        "Mayorkas, Alejandro",
+        "Santos, George (1988- )",
+        "Suozzi, Thomas R"
+      ],
+      "geo_facet": ["Long Island (NY)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tom Suozzi won the swing district that had been held by George Santos.",
+          "copyright": "Anna Watts for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14dc-repubs-lckf/14dc-repubs-lckf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14dc-repubs-lckf/14dc-repubs-lckf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14dc-repubs-lckf/14dc-repubs-lckf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/276eb16a-4514-5f93-8db7-afb12d3ee068",
+      "url": "https://www.nytimes.com/2024/02/14/us/politics/mayorkas-impeachment-trial.html",
+      "id": 100000009313432,
+      "asset_id": 100000009313432,
+      "source": "New York Times",
+      "published_date": "2024-02-14",
+      "updated": "2024-02-14 20:05:26",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Impeachment;Constitution (US);Mayorkas, Alejandro;Democratic Party;Republican Party;House of Representatives;Senate",
+      "column": null,
+      "byline": "By Karoun Demirjian",
+      "type": "Article",
+      "title": "Senate Looks to Quickly Reject Mayorkas Impeachment Charges in Speedy Trial",
+      "abstract": "Democrats are planning to dispense with the charges against the homeland security secretary with a fast dismissal vote or an accelerated trial in which he would almost certainly be acquitted.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Impeachment",
+        "Constitution (US)"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party",
+        "House of Representatives",
+        "Senate"
+      ],
+      "per_facet": ["Mayorkas, Alejandro"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alejandro N. Mayorkas, the homeland security secretary, was impeached by the House on Tuesday.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14dc-impeach-wjfq/14dc-impeach-wjfq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14dc-impeach-wjfq/14dc-impeach-wjfq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14dc-impeach-wjfq/14dc-impeach-wjfq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9ae46b23-7b9b-549d-8a90-08ebb3b0df76",
+      "url": "https://www.nytimes.com/2024/02/13/business/dating-bounty-roy-zaslavskiy.html",
+      "id": 100000009308747,
+      "asset_id": 100000009308747,
+      "source": "New York Times",
+      "published_date": "2024-02-13",
+      "updated": "2024-02-15 00:40:35",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Personal Finances;Dating and Relationships",
+      "column": null,
+      "byline": "By Angela Chen",
+      "type": "Article",
+      "title": "Wanted: True Love. Reward: $100,000.",
+      "abstract": "Two men posted “dating bounties” on the internet worth thousands as an incentive for people to help them find love.",
+      "des_facet": ["Personal Finances", "Dating and Relationships"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carissa Cassiel and Mati Roy met because of a dating bounty.",
+          "copyright": "Dustin Chambers for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/13/multimedia/13dating-bounty-01-hmpb/13dating-bounty-01-hmpb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/13/multimedia/13dating-bounty-01-hmpb/13dating-bounty-01-hmpb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/13/multimedia/13dating-bounty-01-hmpb/13dating-bounty-01-hmpb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2b232992-d07a-5820-af8b-1b7557ba29d3",
+      "url": "https://www.nytimes.com/2024/02/13/science/archaeology-sumeria-kissing.html",
+      "id": 100000009304001,
+      "asset_id": 100000009304001,
+      "source": "New York Times",
+      "published_date": "2024-02-13",
+      "updated": "2024-02-14 17:17:27",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Archaeology and Anthropology;Kissing;Assyrian Civilization;Herpes Viruses;your-feed-science;Bryn Mawr College;Cambridge University;Babylonia;Denmark",
+      "column": null,
+      "byline": "By Franz Lidz",
+      "type": "Article",
+      "title": "Who Kissed First? Archaeology Has an Answer.",
+      "abstract": "A married pair of researchers have “set the record straight” on the ancient history of smooching.",
+      "des_facet": [
+        "Archaeology and Anthropology",
+        "Kissing",
+        "Assyrian Civilization",
+        "Herpes Viruses",
+        "your-feed-science"
+      ],
+      "org_facet": ["Bryn Mawr College", "Cambridge University"],
+      "per_facet": [],
+      "geo_facet": ["Babylonia", "Denmark"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Babylonian clay tablet of a nude couple embracing on a bed, circa 1800 B.C. According to a new study, intimate kissing is 1,000 years older and was far more widespread than previously thought.",
+          "copyright": "The British Museum",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/09/multimedia/SCI-KISSING-01-hwtv/SCI-KISSING-01-hwtv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/09/multimedia/SCI-KISSING-01-hwtv/SCI-KISSING-01-hwtv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/09/multimedia/SCI-KISSING-01-hwtv/SCI-KISSING-01-hwtv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f689f20a-abcb-5e08-8964-98663fca5316",
+      "url": "https://www.nytimes.com/2024/02/13/us/politics/mayorkas-impeachment-vote-trial.html",
+      "id": 100000009298191,
+      "asset_id": 100000009298191,
+      "source": "New York Times",
+      "published_date": "2024-02-13",
+      "updated": "2024-02-14 08:42:06",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Impeachment;United States Politics and Government;Mayorkas, Alejandro;Homeland Security Department;House of Representatives;Republican Party;Democratic Party;Senate",
+      "column": null,
+      "byline": "By Aishvarya Kavi",
+      "type": "Article",
+      "title": "Mayorkas Was Impeached. What Happens Next?",
+      "abstract": "The first impeachment of a sitting cabinet member sets off a series of choreographed rituals that dates back to the impeachment of former President Andrew Johnson in 1868.",
+      "des_facet": ["Impeachment", "United States Politics and Government"],
+      "org_facet": [
+        "Homeland Security Department",
+        "House of Representatives",
+        "Republican Party",
+        "Democratic Party",
+        "Senate"
+      ],
+      "per_facet": ["Mayorkas, Alejandro"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Once the articles of impeachment are delivered to the Senate, it would schedule a trial or vote to dismiss the charges.",
+          "copyright": "Anna Rose Layden for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/06/multimedia/06mayorkas-impeachment-whats-next-top-lzjw/06mayorkas-impeachment-whats-next-top-lzjw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/06/multimedia/06mayorkas-impeachment-whats-next-top-lzjw/06mayorkas-impeachment-whats-next-top-lzjw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/06/multimedia/06mayorkas-impeachment-whats-next-top-lzjw/06mayorkas-impeachment-whats-next-top-lzjw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/5ced664d-0907-5b45-ba90-092b1a880639",
+      "url": "https://www.nytimes.com/interactive/2024/02/12/movies/valentines-day-movies-streaming.html",
+      "id": 100000009287660,
+      "asset_id": 100000009287660,
+      "source": "New York Times",
+      "published_date": "2024-02-12",
+      "updated": "2024-02-14 17:22:47",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Movies;Valentine's Day;vis-design",
+      "column": null,
+      "byline": "By Esther Zuckerman",
+      "type": "Interactive",
+      "title": "Love or Hate Valentine’s Day?",
+      "abstract": "Choose the queue for you.",
+      "des_facet": ["Movies", "Valentine's Day", "vis-design"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Angela Kirkwood",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/09/arts/vday-love-hate/vday-love-hate-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/09/arts/vday-love-hate/vday-love-hate-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/09/arts/vday-love-hate/vday-love-hate-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8a178718-676a-5b0d-9ebf-bf833b21bdd8",
+      "url": "https://www.nytimes.com/2024/02/13/nyregion/suozzi-democrats-win-santos.html",
+      "id": 100000009310604,
+      "asset_id": 100000009310604,
+      "source": "New York Times",
+      "published_date": "2024-02-13",
+      "updated": "2024-02-14 10:41:58",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "United States Politics and Government;Immigration and Emigration;Snow and Snowstorms;Elections, House of Representatives;Suozzi, Thomas R;Santos, George (1988- );Pilip, Mazi Melesa;Democratic Party;House of Representatives;New York State",
+      "column": null,
+      "byline": "By Nicholas Fandos",
+      "type": "Article",
+      "title": "Seven Takeaways From the Democrats’ Recapture of a House Seat",
+      "abstract": "George Santos, snow and old-fashioned experience were factors in the special election in New York, but none was bigger than how Tom Suozzi responded to the migrant crisis.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Immigration and Emigration",
+        "Snow and Snowstorms",
+        "Elections, House of Representatives"
+      ],
+      "org_facet": ["Democratic Party", "House of Representatives"],
+      "per_facet": [
+        "Suozzi, Thomas R",
+        "Santos, George (1988- )",
+        "Pilip, Mazi Melesa"
+      ],
+      "geo_facet": ["New York State"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Election Day snowstorm was thought to have helped Tom Suozzi, center, because many Democrats cast their ballots during early voting.",
+          "copyright": "Anna Watts for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/13/multimedia/00ny-suozzi-takeaways-hfo-qbjg/00ny-suozzi-takeaways-hfo-qbjg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/13/multimedia/00ny-suozzi-takeaways-hfo-qbjg/00ny-suozzi-takeaways-hfo-qbjg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/13/multimedia/00ny-suozzi-takeaways-hfo-qbjg/00ny-suozzi-takeaways-hfo-qbjg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/0f6db594-9043-50c4-bf3b-8d71c7165daf",
+      "url": "https://www.nytimes.com/interactive/2024/02/13/well/live/love-acts-relationships.html",
+      "id": 100000009309693,
+      "asset_id": 100000009309693,
+      "source": "New York Times",
+      "published_date": "2024-02-13",
+      "updated": "2024-02-14 12:05:57",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Dating and Relationships;Valentine's Day;Habits and Routines (Behavior);Kissing;Love (Emotion);Marriages;vis-design",
+      "column": null,
+      "byline": "By Catherine Pearson and Melonyce McAfee",
+      "type": "Interactive",
+      "title": "100 Small Acts of Love",
+      "abstract": "New York Times readers shared how they show affection on Valentine’s Day and every other day.",
+      "des_facet": [
+        "Dating and Relationships",
+        "Valentine's Day",
+        "Habits and Routines (Behavior)",
+        "Kissing",
+        "Love (Emotion)",
+        "Marriages",
+        "vis-design"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Laura Edelbacher",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/well/14Well-Acts-of-Love-promo-STATIC/14Well-Acts-of-Love-promo-STATIC-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/well/14Well-Acts-of-Love-promo-STATIC/14Well-Acts-of-Love-promo-STATIC-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/well/14Well-Acts-of-Love-promo-STATIC/14Well-Acts-of-Love-promo-STATIC-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0cabb1ec-976f-56c4-b54e-e656e852795b",
+      "url": "https://www.nytimes.com/2024/02/13/business/bob-moore-dead.html",
+      "id": 100000009311954,
+      "asset_id": 100000009311954,
+      "source": "New York Times",
+      "published_date": "2024-02-13",
+      "updated": "2024-02-15 00:36:02",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Deaths (Obituaries);Organic Foods and Products;Shopping and Retail;Grain;Diet and Nutrition;Employee Stock Ownership Plans (ESOP);Moore, Bob (1929-2024);Bob's Red Mill Natural Foods Inc;Portland (Ore);Oregon",
+      "column": null,
+      "byline": "By Alex Williams",
+      "type": "Article",
+      "title": "Bob Moore, Who Founded Bob’s Red Mill, Is Dead at 94",
+      "abstract": "A former gas station owner, he was learning to read the Bible in its original languages when he changed course and started what became an artisanal-grains powerhouse.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Organic Foods and Products",
+        "Shopping and Retail",
+        "Grain",
+        "Diet and Nutrition",
+        "Employee Stock Ownership Plans (ESOP)"
+      ],
+      "org_facet": ["Bob's Red Mill Natural Foods Inc"],
+      "per_facet": ["Moore, Bob (1929-2024)"],
+      "geo_facet": ["Portland (Ore)", "Oregon"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bob Moore, the founder of Bob’s Red Mill, at his retail store in Milwaukie, Ore., in 2010. His company grew from serving the Portland area to become a global natural-foods behemoth.",
+          "copyright": "Doug Beghtel/The Oregonian, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/15/multimedia/13Moore--01-vlph-print1/13Moore--01-vlph-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/15/multimedia/13Moore--01-vlph-print1/13Moore--01-vlph-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/15/multimedia/13Moore--01-vlph-print1/13Moore--01-vlph-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5baaec8e-736e-510d-ac19-0ecb4e33913e",
+      "url": "https://www.nytimes.com/2024/02/14/nyregion/nypd-clerks-office-lost-found.html",
+      "id": 100000009276268,
+      "asset_id": 100000009276268,
+      "source": "New York Times",
+      "published_date": "2024-02-14",
+      "updated": "2024-02-14 13:01:59",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Police;Swords;Lost and Found Property;Firearms;Forensic Science;Police Department (NYC)",
+      "column": null,
+      "byline": "By Chelsia Rose Marcius and Lanna Apisukh",
+      "type": "Article",
+      "title": "A Plush Dog, Samurai Sword and 42,439 Guns: Inside an N.Y.P.D. Basement",
+      "abstract": "In the office of the Manhattan Property Clerk, evidence and lost items arrive by the tens of thousands. A small band of officers and civilians has to manage never-ending pressure.",
+      "des_facet": [
+        "Police",
+        "Swords",
+        "Lost and Found Property",
+        "Firearms",
+        "Forensic Science"
+      ],
+      "org_facet": ["Police Department (NYC)"],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lanna Apisukh for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/13/nyregion/00-NYPD-BASEMENT-PROMO/00-NYPD-BASEMENT-PROMO-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/13/nyregion/00-NYPD-BASEMENT-PROMO/00-NYPD-BASEMENT-PROMO-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/13/nyregion/00-NYPD-BASEMENT-PROMO/00-NYPD-BASEMENT-PROMO-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1571c042-f5fc-5c20-89c0-cb8677aad87b",
+      "url": "https://www.nytimes.com/2024/02/13/style/usher-goicoechea-marriage.html",
+      "id": 100000009311416,
+      "asset_id": 100000009311416,
+      "source": "New York Times",
+      "published_date": "2024-02-13",
+      "updated": "2024-02-14 14:25:27",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Weddings and Engagements;Rhythm and Blues (Music);Pop and Rock Music;Super Bowl;Usher;Goicoechea, Jennifer;Las Vegas (Nev)",
+      "column": null,
+      "byline": "By Sadiba Hasan",
+      "type": "Article",
+      "title": "Usher Gets Married After the Super Bowl",
+      "abstract": "After an electric halftime show, the R&B star and his girlfriend, Jennifer Goicoechea, tied the knot at a chapel in Las Vegas.",
+      "des_facet": [
+        "Weddings and Engagements",
+        "Rhythm and Blues (Music)",
+        "Pop and Rock Music",
+        "Super Bowl"
+      ],
+      "org_facet": [],
+      "per_facet": ["Usher", "Goicoechea, Jennifer"],
+      "geo_facet": ["Las Vegas (Nev)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The couple, who have two children together, celebrated with a party at the Aria Resort and Casino. ",
+          "copyright": "Cassidy Sparrow/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/13/fashion/13USHER-WEDDING/13USHER-WEDDING-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/13/fashion/13USHER-WEDDING/13USHER-WEDDING-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/13/fashion/13USHER-WEDDING/13USHER-WEDDING-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/121663f1-a86b-501e-b234-3a2a70c4e84e",
+      "url": "https://www.nytimes.com/2024/02/14/world/europe/europe-nato-trump-ukraine.html",
+      "id": 100000009311765,
+      "asset_id": 100000009311765,
+      "source": "New York Times",
+      "published_date": "2024-02-14",
+      "updated": "2024-02-14 23:18:14",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "International Relations;Defense and Military Forces;Russian Invasion of Ukraine (2022);Presidential Election of 2024;United States International Relations;Foreign Aid;audio-neutral-informative;Putin, Vladimir V;Trump, Donald J;North Atlantic Treaty Organization;Rheinmetall AG;Germany;Europe",
+      "column": null,
+      "byline": "By Steven Erlanger and David E. Sanger",
+      "type": "Article",
+      "title": "Europe Wants to Stand on Its Own Militarily. Is It Too Little, Too Late?",
+      "abstract": "Outraged by Donald J. Trump’s remarks about encouraging Russia to punish some NATO members, and downbeat about Ukraine’s military prospects, Europe faces growing anxiety over its own security.",
+      "des_facet": [
+        "International Relations",
+        "Defense and Military Forces",
+        "Russian Invasion of Ukraine (2022)",
+        "Presidential Election of 2024",
+        "United States International Relations",
+        "Foreign Aid",
+        "audio-neutral-informative"
+      ],
+      "org_facet": ["North Atlantic Treaty Organization", "Rheinmetall AG"],
+      "per_facet": ["Putin, Vladimir V", "Trump, Donald J"],
+      "geo_facet": ["Germany", "Europe"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ukrainian soldiers from the 72nd Mechanized Brigade in Vuhledar in January.",
+          "copyright": "Tyler Hicks/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14europe-security-1-jzkq/14europe-security-1-jzkq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14europe-security-1-jzkq/14europe-security-1-jzkq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14europe-security-1-jzkq/14europe-security-1-jzkq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/19d6d2ce-b6db-50e8-a905-043c95e51cbf",
+      "url": "https://www.nytimes.com/2024/02/14/opinion/marwan-barghouti-palestinian-israel.html",
+      "id": 100000009310043,
+      "asset_id": 100000009310043,
+      "source": "New York Times",
+      "published_date": "2024-02-14",
+      "updated": "2024-02-15 00:21:58",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Palestinians;Israel-Gaza War (2023- );United States International Relations;Barghouti, Marwan;Fatah, Al;Hamas;Palestinian Authority;Gaza Strip;West Bank;Israel",
+      "column": null,
+      "byline": "By Serge Schmemann",
+      "type": "Article",
+      "title": "Why So Many Palestinians and Israelis Are Talking About Marwan Barghouti",
+      "abstract": "His name may not be familiar to many Americans, but people in the Middle East know it well.",
+      "des_facet": [
+        "Palestinians",
+        "Israel-Gaza War (2023- )",
+        "United States International Relations"
+      ],
+      "org_facet": ["Fatah, Al", "Hamas", "Palestinian Authority"],
+      "per_facet": ["Barghouti, Marwan"],
+      "geo_facet": ["Gaza Strip", "West Bank", "Israel"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marwan Barghouti has been in an Israeli prison, serving life sentences for murder and for membership in a terrorist organization. During that time, his popularity among Palestinians has continued to grow.",
+          "copyright": "Hussein Malla/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/15/multimedia/14schmemann-01-ktlz/14schmemann-01-ktlz-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/15/multimedia/14schmemann-01-ktlz/14schmemann-01-ktlz-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/15/multimedia/14schmemann-01-ktlz/14schmemann-01-ktlz-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/eb1ac312-cb4a-559b-8002-f04ab5e3f1d6",
+      "url": "https://www.nytimes.com/2024/02/14/world/europe/ukraine-strike-russia-black-sea.html",
+      "id": 100000009313087,
+      "asset_id": 100000009313087,
+      "source": "New York Times",
+      "published_date": "2024-02-14",
+      "updated": "2024-02-14 23:24:21",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Defense and Military Forces;International Relations;Russian Invasion of Ukraine (2022);Crimea (Ukraine);Black Sea;Ukraine;Russia",
+      "column": null,
+      "byline": "By Maria Varenikova and Marc Santora",
+      "type": "Article",
+      "title": "Ukraine, Struggling on Land, Claims to Deal Blow to Russia at Sea",
+      "abstract": "The Ukrainian military says it has sunk a large Russian landing ship off the coast of Crimea, although Ukrainian troops inland find themselves in a precarious position.",
+      "des_facet": [
+        "Defense and Military Forces",
+        "International Relations",
+        "Russian Invasion of Ukraine (2022)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Crimea (Ukraine)", "Black Sea", "Ukraine", "Russia"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of Ukraine’s 10th Brigade at a frontline position in Ukraine’s eastern Donetsk region in December. On land, Ukraine is desperately trying to maintain the current front lines in a costly war of attrition.",
+          "copyright": "Finbarr O'Reilly for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14ukraine-1-chmj/14ukraine-1-chmj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14ukraine-1-chmj/14ukraine-1-chmj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14ukraine-1-chmj/14ukraine-1-chmj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/73a69718-d4a6-520f-90d9-b306f97c2cc1",
+      "url": "https://www.nytimes.com/interactive/2024/02/13/climate/flooding-sea-levels-groundwater.html",
+      "id": 100000009306646,
+      "asset_id": 100000009306646,
+      "source": "New York Times",
+      "published_date": "2024-02-13",
+      "updated": "2024-02-14 12:07:40",
+      "section": "Climate",
+      "subsection": "",
+      "nytdsection": "climate",
+      "adx_keywords": "Coast Erosion;Coastal Areas;Floods;Aquifers;Conservation of Resources;East Coast (US)",
+      "column": null,
+      "byline": "By Mira Rojanasakul and Marco Hernandez",
+      "type": "Interactive",
+      "title": "The East Coast Is Sinking",
+      "abstract": "Land is slumping into the ocean, compounding the dangers from sea level rise. A major culprit: overpumping of groundwater.",
+      "des_facet": [
+        "Coast Erosion",
+        "Coastal Areas",
+        "Floods",
+        "Aquifers",
+        "Conservation of Resources"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["East Coast (US)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/08/multimedia/2024-01-04-atlantic-subsidence-index/2024-01-04-atlantic-subsidence-index-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/08/multimedia/2024-01-04-atlantic-subsidence-index/2024-01-04-atlantic-subsidence-index-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/08/multimedia/2024-01-04-atlantic-subsidence-index/2024-01-04-atlantic-subsidence-index-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/77c889ad-6d6c-53c8-a341-e849cf02f665",
+      "url": "https://www.nytimes.com/2024/02/14/nyregion/democrats-house-suozzi-biden.html",
+      "id": 100000009312425,
+      "asset_id": 100000009312425,
+      "source": "New York Times",
+      "published_date": "2024-02-14",
+      "updated": "2024-02-14 23:52:54",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2024;Immigration and Emigration;Elections, House of Representatives;Suozzi, Thomas R;Democratic Party;Republican Party",
+      "column": null,
+      "byline": "By Nicholas Fandos and Katie Glueck",
+      "type": "Article",
+      "title": "Leaning Into Migrant Woes, Suozzi Paves Election-Year Path for Democrats",
+      "abstract": "Tom Suozzi’s victory in a special House election in New York buoyed Democrats’ spirits and offered a model on one of the party’s thorniest challenges: immigration.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Immigration and Emigration",
+        "Elections, House of Representatives"
+      ],
+      "org_facet": ["Democratic Party", "Republican Party"],
+      "per_facet": ["Suozzi, Thomas R"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tom Suozzi, a longtime ally of President Biden, often distanced himself from the president and the national Democratic Party in his campaign for a House seat.",
+          "copyright": "Anna Watts for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14suozzi-folo-jthw/14suozzi-folo-jthw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14suozzi-folo-jthw/14suozzi-folo-jthw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14suozzi-folo-jthw/14suozzi-folo-jthw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/10595ec4-a756-56da-bfef-02274da8017a",
+      "url": "https://www.nytimes.com/interactive/2024/02/13/magazine/oscars-actors-free-time.html",
+      "id": 100000009310552,
+      "asset_id": 100000009310552,
+      "source": "New York Times",
+      "published_date": "2024-02-13",
+      "updated": "2024-02-14 14:58:36",
+      "section": "Magazine",
+      "subsection": "",
+      "nytdsection": "magazine",
+      "adx_keywords": "Actors and Actresses;Photography;Cooper, Bradley;Ruffalo, Mark;Randolph, Da'Vine Joy;Bening, Annette;Ellis-Taylor, Aunjanue;Giamatti, Paul;Melton, Charles (1991- );Mulligan, Carey;Taylor, Teyana (1990- );Wright, Jeffrey (1965- )",
+      "column": null,
+      "byline": "Photographs by James Nachtwey",
+      "type": "Interactive",
+      "title": "Actors in the Wild",
+      "abstract": "The best performers of the year — when they’re not on film.",
+      "des_facet": ["Actors and Actresses", "Photography"],
+      "org_facet": [],
+      "per_facet": [
+        "Cooper, Bradley",
+        "Ruffalo, Mark",
+        "Randolph, Da'Vine Joy",
+        "Bening, Annette",
+        "Ellis-Taylor, Aunjanue",
+        "Giamatti, Paul",
+        "Melton, Charles (1991- )",
+        "Mulligan, Carey",
+        "Taylor, Teyana (1990- )",
+        "Wright, Jeffrey (1965- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "James Nachtwey for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/18/magazine/18mag-portfolio/18mag-portfolio-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/18/magazine/18mag-portfolio/18mag-portfolio-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/18/magazine/18mag-portfolio/18mag-portfolio-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2ca5990d-b276-5c3b-85e7-b37cc466973d",
+      "url": "https://www.nytimes.com/2024/02/13/us/politics/mayorkas-impeachment-house.html",
+      "id": 100000009309763,
+      "asset_id": 100000009309763,
+      "source": "New York Times",
+      "published_date": "2024-02-13",
+      "updated": "2024-02-14 08:35:56",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Impeachment;Immigration and Emigration;Illegal Immigration;United States Politics and Government;Mayorkas, Alejandro;Biden, Joseph R Jr;Homeland Security Department;Republican Party;House Committee on Homeland Security;House of Representatives",
+      "column": null,
+      "byline": "By Karoun Demirjian",
+      "type": "Article",
+      "title": "House Republicans Impeach Mayorkas for Border Policies",
+      "abstract": "In a redo of their first failed attempt, Republicans pushed through the charges over solid Democratic opposition, making the homeland security secretary the first sitting cabinet member to be impeached.",
+      "des_facet": [
+        "Impeachment",
+        "Immigration and Emigration",
+        "Illegal Immigration",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Homeland Security Department",
+        "Republican Party",
+        "House Committee on Homeland Security",
+        "House of Representatives"
+      ],
+      "per_facet": ["Mayorkas, Alejandro", "Biden, Joseph R Jr"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The impeachment of Alejandro N. Mayorkas, the homeland security secretary, amounted to a partisan indictment of President Biden’s immigration policies by Republicans.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/02/13/multimedia/13dc-mayorkas-01-zmjc/13dc-mayorkas-01-zmjc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/13/multimedia/13dc-mayorkas-01-zmjc/13dc-mayorkas-01-zmjc-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/02/13/multimedia/13dc-mayorkas-01-zmjc/13dc-mayorkas-01-zmjc-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
