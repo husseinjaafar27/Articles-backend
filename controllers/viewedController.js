@@ -8,9 +8,9 @@ import Media from "../models/Media.js";
 import Media_metadata from "../models/Media_metadata.js";
 
 export const migrateViewed = async (req, res) => {
+  const { period } = req.query;
   try {
-    let url =
-      "https://api.nytimes.com/svc/mostpopular/v2/viewed/30.json?api-key=cyH6lSOUAFMP41OJUKIOYHXGOoBe3Jqt";
+    let url = `https://api.nytimes.com/svc/mostpopular/v2/viewed/${period}.json?api-key=cyH6lSOUAFMP41OJUKIOYHXGOoBe3Jqt`;
     const response = await axios.get(url);
     const responseData = CircularJSON.stringify(response.data);
     const responseParse = JSON.parse(responseData);
@@ -34,7 +34,7 @@ export const migrateViewed = async (req, res) => {
         type: data[i].type,
         title: data[i].title,
         abstract: data[i].abstract,
-        period: 30,
+        period: period,
       });
       for (let q = 0; q < data[i].des_facet.length; q++) {
         await Facet.create({
