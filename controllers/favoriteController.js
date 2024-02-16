@@ -27,6 +27,19 @@ export const addFavoriteViewed = async (req, res) => {
   }
 };
 
+export const deleteFavoriteViewed = async (req, res) => {
+  const { id } = req.params;
+  try {
+    await Favorite.destroy({ where: { id } });
+
+    return res.status(200).json({
+      message: "Favorite deleted successfully",
+    });
+  } catch (error) {
+    return res.status(500).json({ message: error.message });
+  }
+};
+
 export const getFavoritesUser = async (req, res) => {
   const { id } = req.userData;
   try {
