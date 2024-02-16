@@ -11,6 +11,11 @@ List of external libraries and packages (axios, bcryptjs, body-parser,
 circular-json, cors, dotenv, express, jsonwebtoken, mysql2, nodemailer,
 sequelize).
 
+# Database
+
+I use console clever-cloud to create mysql database and connect it on my backend
+https://console.clever-cloud.com/
+
 # Deployment
 
 I deployed Backend on render. to check frontend:
