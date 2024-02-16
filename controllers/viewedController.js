@@ -123,7 +123,27 @@ export const getViewedByPeriod = async (req, res) => {
     });
 
     return res.status(200).json({
-      message: "Done",
+      message: "Viewed fetch successfully",
+      data: view,
+    });
+  } catch (error) {
+    return res.status(500).json({ message: error.message });
+  }
+};
+
+export const getViewedById = async (req, res) => {
+  const id = req.params.id;
+  try {
+    const view = await Viewed.findOne({
+      where: { id },
+      include: [
+        { model: Facet },
+        { model: Media, include: { model: Media_metadata } },
+      ],
+    });
+
+    return res.status(200).json({
+      message: "Viewed fetch successfully",
       data: view,
     });
   } catch (error) {
